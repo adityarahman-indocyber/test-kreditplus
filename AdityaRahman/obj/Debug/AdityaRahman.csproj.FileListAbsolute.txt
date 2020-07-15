@@ -1,0 +1,13 @@
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.exe.config
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.exe
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.pdb
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.csproj.CoreCompileInputs.cache
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.exe
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.pdb
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\AdityaRahman\AdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.csprojAssemblyReference.cache
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.exe.config
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.exe
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\bin\Debug\AdityaRahman.pdb
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.csproj.CoreCompileInputs.cache
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.exe
+E:\BOOTCAMP BC14\BACK END\C#\LAST TEST C#\TestProgramAdityaRahman\AdityaRahman\obj\Debug\AdityaRahman.pdb
